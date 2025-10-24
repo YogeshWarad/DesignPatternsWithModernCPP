@@ -1,0 +1,3 @@
+/mnt/c/ws/DesignPatternWithModernCPP/ProducerConsumer/build/CMakeFiles/producer_consumer.dir
+/mnt/c/ws/DesignPatternWithModernCPP/ProducerConsumer/build/CMakeFiles/edit_cache.dir
+/mnt/c/ws/DesignPatternWithModernCPP/ProducerConsumer/build/CMakeFiles/rebuild_cache.dir
